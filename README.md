@@ -1,20 +1,36 @@
 
-![MERN stack developer.](https://i.ibb.co/PGm5N6w/developer.png)
-## I am Jubayer Hossain.
-### MERN stack developer.
+<img src="https://i.ibb.co/PGm5N6w/developer.png" width="100%" height="300px">
+
+
+## I am Jubayer Hossain. 
+###  MERN stack developer.
+
 
 
 Passionate MERN stack developer with a knack for crafting robust and scalable web applications.
 
 Skills: Javascript,React,Daisy UI,Materia UI,Node.js,Express.js,Next.js MongoDB Atlas,Mongoose
 
-- 🔭 I’m currently working on React 
-- 🌱 I’m currently learning Next.js,Mongoose 
+### Technologies Used
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" width="40" height="40" style="border-radius: 50%;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" style="margin-right: 5px">
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="40" height="40">](https://nodejs.org/)
+[<img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js Logo" width="40" height="40" style="border-radius: 50%;">](https://expressjs.com/)
+[<img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="Next.js Logo" width="40" height="40">](https://nextjs.org/)
+[<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB Atlas Logo" width="40" height="40">](https://www.mongodb.com/cloud/atlas)
+[<img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose Logo" width="40" height="40">](https://mongoosejs.com/)
+
+<br>
+
+ 🔭 I’m currently working on React 
+
+ 🌱 I’m currently learning **Next.js , Mongoose**
+
 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sojibjubayer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jubayer-hossain-sojib/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojibjubayer)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sojibjubayer&show_icons=true)  
 
@@ -55,14 +71,7 @@ Features:   <br>
 Used Technology: React, Daisy UI, Node.js,Express.js,MongoDB
 
 
-### Technologies Used
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" style="margin-right: 5px">
- [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="40" height="40">](https://nodejs.org/)
-[<img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js Logo" width="40" height="40">](https://expressjs.com/)
-[<img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="Next.js Logo" width="40" height="40">](https://nextjs.org/)
-[<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB Atlas Logo" width="40" height="40">](https://www.mongodb.com/cloud/atlas)
-[<img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose Logo" width="40" height="40">](https://mongoosejs.com/)
 
 
 
