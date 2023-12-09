@@ -1,6 +1,6 @@
 
-![MERN stack developer.](https://i.ibb.co/NZvZ9FJ/how-to-become-a-web-developer.jpg)
-###  I am Jubayer Hossain.
+![MERN stack developer.](https://i.ibb.co/PGm5N6w/developer.png)
+### I am Jubayer Hossain.
 #### MERN stack developer.
 
 
