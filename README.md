@@ -14,14 +14,18 @@ Skills: Javascript,React,Daisy UI,Materia UI,Node.js,Express.js,Next.js MongoDB 
 
 ### Technologies Used
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" width="40" height="40" style="border-radius: 50%;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" style="margin-right: 5px">
- [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="40" height="40">](https://nodejs.org/)
-[<img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js Logo" width="40" height="40" style="border-radius: 50%;">](https://expressjs.com/)
-[<img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="Next.js Logo" width="40" height="40">](https://nextjs.org/)
-[<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB Atlas Logo" width="40" height="40">](https://www.mongodb.com/cloud/atlas)
-[<img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose Logo" width="40" height="40">](https://mongoosejs.com/)
-
-<br>
+<p align=""> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> &nbsp
+  <img  src="https://i.ibb.co/BsHDv5g/html5.png" alt="html5" width="50" height="50"/> &nbsp 
+  <img src="https://i.ibb.co/y4vYL8B/css3.png" alt="css3" width="50" height="50"/> &nbsp
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />   &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="120" height="90"/> &nbsp
+  <img src="https://i.ibb.co/DYK9ZWC/express.png" alt="express" width="80" height="30" /> &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="50"/> 
+  
+  </p>
 
  🔭 I’m currently working on React 
 
