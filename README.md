@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/PCYX9Bq/developer.png" width="100%" height="300px">
+<img src="https://i.ibb.co/yQ0ZR6v/jubayuer-min.png" width="100%" >
 
 
 
