@@ -13,7 +13,6 @@ Passionate MERN stack developer with a knack for crafting robust and scalable we
 Skills: Javascript,React,Daisy UI,Materia UI,Node.js,Express.js,Next.js MongoDB Atlas,Mongoose
 
 ### Technologies Used
-
 <p align=""> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> &nbsp
