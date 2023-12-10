@@ -21,12 +21,9 @@ Passionate MERN stack developer with a knack for crafting robust and scalable we
  🌱 I’m currently learning **Mongoose**
 
 
-### Connect with me:
-<p>
-<a href="https://github.com/sojibjubayer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  &nbsp
-<a href="https://www.linkedin.com/in/jubayer-hossain-sojib"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>  
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jubayer-hossain-sojib) 
 
-</p>
 
 
 
