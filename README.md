@@ -23,7 +23,8 @@ Passionate MERN stack developer with a knack for crafting robust and scalable we
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jubayer-hossain-sojib) 
-[![Website](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/jubayer-hossain-sojib](https://jubayer-hossain-portfolio.web.app/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://jubayer-hossain-portfolio.web.app/) 
+
 
 
 
