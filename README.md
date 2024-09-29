@@ -17,9 +17,9 @@ Passionate MERN stack developer with a knack for crafting robust and scalable we
 
 
 
- 🔭 I’m currently working on **React**
+ 🔭 I’m currently working on **NextJS**
 
- 🌱 I’m currently learning **Mongoose**
+
 
 
 ### 🌐 Connect with me:
